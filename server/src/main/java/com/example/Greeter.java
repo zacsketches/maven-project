@@ -17,6 +17,6 @@ public class Greeter {
   *@return a sring greeting.
   */
   public final String greet(final String someone) {
-    return String.format("Hello, %s!", someone);
+    return String.format("It is a pleasure to meet you, %s!", someone);
   }
 }
